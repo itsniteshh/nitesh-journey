@@ -6,6 +6,10 @@
 Built new github and git ssh key
 Created new respository for this challenge and updated everything in it
 
-## 03-03-2022 -- #Day 1 of 100 days of coding -- Day 1 from Dr. Angela's bootcamp
-Built tip calc and love calc
+## 03-03-2022 -- #Day 1 of 100 days of coding -- Day 1, 2 and 3 from Dr. Angela's bootcamp
+Built:
+1. Brand name Genrator
+2. Tip Calculator
+3. Treasure Island game
+
 
