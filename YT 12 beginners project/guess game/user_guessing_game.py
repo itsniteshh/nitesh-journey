@@ -25,5 +25,5 @@ while end_of_game:
     if lives == 0:
         print(f"\nYou ran out of lives! You lose")
         break
-
+print(f"The correct answer is {com_guess}")
 
