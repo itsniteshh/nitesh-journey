@@ -1,6 +1,8 @@
 user_input = ""
 started = False
-stopped = True
+
+
+
 
 while True:
     #Build a car game that prompts help manual when user types help 
@@ -15,12 +17,19 @@ while True:
         break
     
     elif user_input == "start":
-        started = True
-        print("Car started.... Ready to go")
+        if started:
+            print("Car is already running")
+        else:
+            started = True
+            print("Car started.... Ready to go")
     
     elif user_input == "stop":
-        stopped = False
-        print("Car stopped")
+        if not started:
+            print("Car is stopped")
+        else:
+            started = False
+            print("Car is already stopped")
+                       
         
     else:
         print("Sorry, I don't understand your language!")
