@@ -2,8 +2,6 @@ user_input = ""
 started = False
 
 
-
-
 while True:
     #Build a car game that prompts help manual when user types help 
     user_input = input("> ").lower()
@@ -25,10 +23,10 @@ while True:
     
     elif user_input == "stop":
         if not started:
-            print("Car is stopped")
+            print("Car is already stopped")
         else:
             started = False
-            print("Car is already stopped")
+            print("Car is stopped")
                        
         
     else:
