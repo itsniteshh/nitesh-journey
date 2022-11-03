@@ -10,3 +10,12 @@
 ## 01-11-2022 -- #Day 2 of 100 days of coding 
 - Built a number gussing game and learnt about while and for loops thorugh Python with Mosh YT course
 - Built a car racing game simulation 
+
+
+## 02-11-2022 -- #Day 3
+-- Built a largest number and smallest num app
+-- Solved nested loop puzzle
+
+## 03-11-2022 -- #Day 4
+-- Solved the bug from smallest number program
+-- Also working on num_dict program
