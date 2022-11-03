@@ -2,7 +2,7 @@
 
 nums = [3, 6, 2, 8, 1, 4, 10, 5, 80, ]
 
-smallest_num = 900
+smallest_num = nums[0]
 
 for num in nums:
     if num < smallest_num:
