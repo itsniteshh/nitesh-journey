@@ -17,6 +17,6 @@ output = ""
 
 user_input = (input("Phone: "))
 for n in user_input:
-    output += num.get(n, " ")
+    output += num.get(n, "no") + " "
 
 print(output)
