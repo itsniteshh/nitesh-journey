@@ -13,8 +13,10 @@ num = {
     "0": "zero"
 }
 
-
+output = ""
 
 user_input = (input("Phone: "))
 for n in user_input:
-    print(num[user_input])
+    output += num[n]
+
+print(output)
