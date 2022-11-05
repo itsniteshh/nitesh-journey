@@ -4,10 +4,11 @@ emojis = {
     ":)" :"😥",
     ":(" : "😁"
 }
-
+output_msg = ""
 input_msg = input("> ").split(" ")
 
 for emo in input_msg:
-    for keys in emojis:
-        if emo == keys:
-            
+    output_msg += emojis.get(emo, emo)
+    
+    
+print(output_msg)
