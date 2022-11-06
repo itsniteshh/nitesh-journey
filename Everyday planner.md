@@ -19,3 +19,9 @@
 ## 03-11-2022 -- #Day 4
 -- Solved the bug from smallest number program
 -- Also working on num_dict program
+
+## 04-11-2022 -- #Day 5
+-- Built emoji convertor program
+
+## Day 6
+-- took a day break
