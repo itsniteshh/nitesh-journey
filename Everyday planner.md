@@ -8,4 +8,6 @@
 
 ## Day 3 -- Completed cart_price program and also done with car_game remaining part
 
+## Day 4 -- Completed emoji convertor app and phone number convertor
+
 
