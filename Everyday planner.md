@@ -10,4 +10,8 @@
 
 ## Day 4 -- Completed emoji convertor app and phone number convertor
 
+## Day 5 -- Completed emoji convertor app and also started with functions
 
+
+## Day 6 -- Startd with Dr. Angela's bootcamp
+#Completed Day 1 of #100 Days bootcamp and built Brand name generator
