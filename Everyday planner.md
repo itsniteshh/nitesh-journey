@@ -14,8 +14,11 @@
 
 
 ## Day 6 -- Startd with Dr. Angela's bootcamp
-#Completed Day 1 of #100 Days bootcamp and built Brand name generator
+# Completed Day 1 of #100 Days bootcamp and built Brand name generator
 
 ## Day 7 
 # Completed Day 2-- Worked on BMI calc, weeks in leap yr and tip calc program
+
+## Day 8 
+# Solved with codewars kata featuring swaping cases and reversing strings
 
