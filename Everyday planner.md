@@ -22,5 +22,7 @@
 ## Day 8
 
 # Completed Day 3 -- Solved with codewars kata featuring swaping cases and reversing strings
-# 
 
+## Day 9
+
+# Started with Day 4 -- Learned random module and worked with heads and tails and random selector program
