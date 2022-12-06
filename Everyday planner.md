@@ -26,3 +26,8 @@
 ## Day 9
 
 # Started with Day 4 -- Learned random module and worked with heads and tails and random selector program
+
+
+## Day 10
+
+# solved Day 4 remaining exercises and completed the project
