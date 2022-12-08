@@ -20,14 +20,13 @@
 # Completed Day 2-- Worked on BMI calc, weeks in leap yr and tip calc program
 
 ## Day 8
-
 # Completed Day 3 -- Solved with codewars kata featuring swaping cases and reversing strings
 
 ## Day 9
-
 # Started with Day 4 -- Learned random module and worked with heads and tails and random selector program
 
-
 ## Day 10
-
 # solved Day 4 remaining exercises and completed the project
+
+## Day 11 
+# completed Day 5 of exercises
