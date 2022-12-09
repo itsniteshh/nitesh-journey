@@ -30,3 +30,7 @@
 
 ## Day 11 
 # completed Day 5 of exercises
+
+## Day 12
+
+# Dadi passed away today
