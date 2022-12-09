@@ -1,3 +1,4 @@
+"""
 emojis = {
     ":)"  :"😊",
     ":(" : "😢"
@@ -10,3 +11,14 @@ for emo in user_input:
         
         
 print(output)
+"""
+output = ""
+
+stri = ("i love you dadi")
+
+new_str = stri.split()
+for words in new_str:
+    output += words.upper()
+
+print(output)
+
