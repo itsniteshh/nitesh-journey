@@ -1,36 +1,5 @@
 # 2022-python-challenge
-#started this challenge again and for the final time on 26TH Nov, 2022
+#started this challenge again and again on 1st Jan, 2023
 
 
-# Day 1 -- started with Python with Mosh course first, also halfway through SQL with Mosh
 
-# Day 2 -- Completed car_game and guessing game along with samllest and largest num program
-
-## Day 3 -- Completed cart_price program and also done with car_game remaining part
-
-## Day 4 -- Completed emoji convertor app and phone number convertor
-
-## Day 5 -- Completed emoji convertor app and also started with functions
-
-
-## Day 6 -- Startd with Dr. Angela's bootcamp
-# Completed Day 1 of #100 Days bootcamp and built Brand name generator
-
-## Day 7 
-# Completed Day 2-- Worked on BMI calc, weeks in leap yr and tip calc program
-
-## Day 8
-# Completed Day 3 -- Solved with codewars kata featuring swaping cases and reversing strings
-
-## Day 9
-# Started with Day 4 -- Learned random module and worked with heads and tails and random selector program
-
-## Day 10
-# solved Day 4 remaining exercises and completed the project
-
-## Day 11 
-# completed Day 5 of exercises
-
-## Day 12
-
-# Dadi passed away today
