@@ -6,3 +6,6 @@
 
 # Day 2 - 2nd Jan
 -- Completed Day 1 and Day 2 of #100 Days challenge 
+
+# Day 3 - 3rd Jan
+- Completed Day 3 of #100 Days challenge
