@@ -15,3 +15,6 @@
 
 # Day 5 -5th Jan
 - Completed Day 5 of #100 days challenge 
+
+# Day 6 - 6th Jan
+- Completed Day 6 of #100 days challenge
