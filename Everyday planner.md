@@ -18,3 +18,7 @@
 
 # Day 6 - 6th Jan
 - Completed Day 6 of #100 days challenge
+
+# Day 7 - 10th Jan
+- Completed Day 7 
+-- I had 3 days break in between coz I wasn't in town
