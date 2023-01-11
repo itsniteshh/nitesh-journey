@@ -24,4 +24,4 @@
 -- I had 3 days break in between coz I wasn't in town
 
 # Day 8 - 11th Jan 
--
+- Completed Day 8 

@@ -12,11 +12,9 @@ def prime_checker(number):
             else:
                 print("Prime")
                 break
+    else:
+        pass
         
-
-
-
-
 
 #Write your code above this line 👆
     
