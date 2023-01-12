@@ -26,3 +26,6 @@
 # Day 8 - 11th Jan 
 - Completed Day 8 
 - Solved is_palindrome kata 
+
+# Day 9 - 12th Jan
+- Comppleted Day 9
