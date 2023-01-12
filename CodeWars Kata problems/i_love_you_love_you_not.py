@@ -6,10 +6,10 @@ def how_much_i_love_you(nb_petals):
        3:  "a lot",
        4:  "passionately",
        5:  "madly",
-       6: "not at all"
+       0: "not at all"
     }
     if nb_petals >= 7:
         nb_petals = nb_petals % 6
         
     
-    return answers.get(nb_petals, "not at all")
+    return answers.get(nb_petals)
