@@ -1,5 +1,3 @@
-#print("HEllo world")
-
 def how_much_i_love_you(nb_petals):
     # using dict to store answers  
     answers = {
@@ -14,7 +12,4 @@ def how_much_i_love_you(nb_petals):
         nb_petals = nb_petals % 6
         
     
-    return answers.get(nb_petals)
-
-x = how_much_i_love_you(12)
-print(x)
+    return answers.get(nb_petals, "not at all")
