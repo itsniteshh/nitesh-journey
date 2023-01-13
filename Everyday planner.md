@@ -30,3 +30,6 @@
 # Day 9 - 12th Jan
 - Comppleted Day 9
 - Solved find the odd int kata
+
+# Day 10 - 13th Jan
+- Completed Day 10 challenge
