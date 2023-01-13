@@ -4,7 +4,7 @@
 
 #from art import logo
 
-def calculator_program(number1, number2, operation):
+def calculator_program(number1, number2, operation=""):
   #function to work the calc program
   if operation == "+":
     total = num1 + num2
@@ -37,11 +37,6 @@ while True:
   if another_try == "quit":
     break
   elif another_try == "y":
-    num1 = total
+    total = calculator_program(total, num2)
   elif another_try == 'n':
     pass
-
-
-
-
-
