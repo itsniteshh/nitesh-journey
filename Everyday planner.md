@@ -33,3 +33,9 @@
 
 # Day 10 - 13th Jan
 - Completed Day 10 challenge
+
+# Day 11 - 14th Jan
+- Working on blackjack final project, but it'll take 2 days to complete
+
+# Day 12 -- 15th Jan
+- Solved 3 kata problems
