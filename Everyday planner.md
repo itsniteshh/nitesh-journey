@@ -41,4 +41,7 @@
 - Solved 3 kata problems
 
 # Day 13 -- 16th Jan
-- completed blackjack final project 
+- skipped blackjack final project, will complete it after some days  
+
+# Day 14 -- 17th Jan
+- Learnt about local and global scope variables and started with guess the number project
