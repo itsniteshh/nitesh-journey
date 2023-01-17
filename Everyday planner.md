@@ -39,3 +39,6 @@
 
 # Day 12 -- 15th Jan
 - Solved 3 kata problems
+
+# Day 13 -- 16th Jan
+- completed blackjack final project 
