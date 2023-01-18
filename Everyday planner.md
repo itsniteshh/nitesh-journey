@@ -45,3 +45,5 @@
 
 # Day 14 -- 17th Jan
 - Learnt about local and global scope variables and started with guess the number project
+
+# Dat 15 -- 18th Jan
