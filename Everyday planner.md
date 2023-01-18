@@ -49,4 +49,6 @@
 # Dat 15 -- 18th Jan
 - Learnt about debugging and solved debugging projects
 - Solved filtering nums from a list of str and ints, and returning a list full of nums
+
+# Day 16 -- 19th Jan
 - Solved 5 kata in total
