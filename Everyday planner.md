@@ -53,3 +53,6 @@
 # Day 16 -- 19th Jan
 - Solved 5 kata in total
 - Working on Day 14 of challenge
+
+# Day 17 -- 20th Jan
+- working on coffee machine project 
