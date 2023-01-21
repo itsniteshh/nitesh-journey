@@ -56,3 +56,6 @@
 
 # Day 17 -- 20th Jan
 - working on coffee machine project 
+
+# Day 18 -- 21st Jan
+- Learning more about OOP and turtle module
