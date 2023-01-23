@@ -59,3 +59,8 @@
 
 # Day 18 -- 21st Jan
 - Learning more about OOP and turtle module
+
+# Day 19 -- 22nd Jan
+-- Leant about classes and Instances
+
+# Day 20 -- 23rd Jan
