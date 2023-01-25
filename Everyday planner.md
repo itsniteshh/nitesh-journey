@@ -64,3 +64,8 @@
 -- Leant about classes and Instances
 
 # Day 20 -- 23rd Jan
+
+# Day 21 -- 24th Jan
+
+# Day 22 -- 25th Jan
+-- Solved is_isogram kata
