@@ -4,16 +4,13 @@ def is_isogram(string):
     
     for words in string.lower():
         if len(string) == 0:
-            pass
+            return False
         elif words in new_word:
             repeated_words += words
         else:
             new_word += words
         
     if len(repeated_words) >= 1:
-        print(True)
+        return False
     else:
-        print(False)
-        
-is_isogram("Dermatoglyphics")
-
+        return True
