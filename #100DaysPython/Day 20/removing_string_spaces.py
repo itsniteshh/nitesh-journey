@@ -8,3 +8,4 @@ def no_space(x):
             new_str += words
             
     return new_str
+

@@ -11,5 +11,11 @@ def solution(text, ending):
         return True
     else:
         return False
+
+
+"""    OR """
+
+def solution(text, ending):
+    # your code here...
     
-n = solution("abcabc",  "bc")
+    return text.endswith(ending)
