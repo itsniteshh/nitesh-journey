@@ -69,3 +69,7 @@
 
 # Day 22 -- 25th Jan
 -- Solved is_isogram kata
+
+# Day 23 -- 26th Jan 
+
+# Day 24 -- 27th Jan
