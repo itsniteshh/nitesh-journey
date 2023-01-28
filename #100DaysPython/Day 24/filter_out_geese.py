@@ -10,5 +10,3 @@ def goose_filter(birds):
             new_list.append(items)
     return new_list
 
-n = goose_filter(["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher", "nit"])
-print(n)
