@@ -77,7 +77,8 @@
 # Day 25 -- 28th Jan
 
 # Day 27 -- 29th Jan
- -- Sunday break
+ -- Sunday break still managed to solve 2 katas
  
+
 
 
