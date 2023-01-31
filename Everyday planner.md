@@ -78,7 +78,10 @@
 
 # Day 27 -- 29th Jan
  -- Sunday break still managed to solve 2 katas
- 
+
+# Day 28 -- 30th Jan
+-- reversed seq kata
+
 
 
 

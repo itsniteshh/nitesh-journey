@@ -10,5 +10,3 @@ def count_by(x, n):
         count += 1
         
     return num
-n = count_by(3, 10)
-print(n)
