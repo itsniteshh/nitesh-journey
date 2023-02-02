@@ -73,7 +73,7 @@
 # Day 23 -- 26th Jan 
 
 # Day 24 -- 27th Jan
-
+h k
 # Day 25 -- 28th Jan
 
 # Day 27 -- 29th Jan
@@ -82,6 +82,11 @@
 # Day 28 -- 30th Jan
 -- reversed seq kata
 
+# Day 29 -- 31st Jan
+
+# Day 30 -- 1st Feb
+
+# Day 31 -- 2nd Feb
 
 
 
