@@ -6,4 +6,5 @@
 -- learned about basic data types
 -- Solved few exercised and math functions
 
-
+# Day 2 -- 26th May, 2023
+-- 
