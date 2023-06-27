@@ -11,3 +11,4 @@
 
 # Day 3 -- 27th May, 2023
 - solved if logic test exercise
+-- wrote guess game code
