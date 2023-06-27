@@ -7,4 +7,7 @@
 -- Solved few exercised and math functions
 
 # Day 2 -- 26th May, 2023
--- 
+-- did basic things
+
+# Day 3 -- 27th May, 2023
+- solved if logic test exercise
