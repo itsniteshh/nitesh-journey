@@ -5,12 +5,14 @@ is_car_running = False
 while True:
     # loop to run a car 
     
-    user = input()
+    user = input().lower()
     
     if user == "help":
         print('''
 start - to start the car
 stop - to stop the car
+
+
 quit - to exit
               ''')
         
@@ -34,6 +36,7 @@ quit - to exit
             
     else:
         print("Wrong input")
+            
             
             
             
