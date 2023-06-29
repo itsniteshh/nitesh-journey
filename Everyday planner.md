@@ -16,3 +16,6 @@
 
 # Day 4 - 28th June, 2023
 - solved 4-5 exercises from code with mosh tutorials while learning
+
+# Day 5 - 29th June, 2023
+- Started learning about Functions
