@@ -19,3 +19,6 @@
 
 # Day 5 - 29th June, 2023
 - Started learning about Functions
+
+# Day 6 -- 30th June, 2023 
+- 
