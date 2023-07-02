@@ -21,4 +21,8 @@
 - Started learning about Functions
 
 # Day 6 -- 30th June, 2023 
-- 
+- started learning about classes
+
+# Day break
+
+# Day 7 -- 2nd July, 2023
