@@ -26,3 +26,5 @@
 # Day break
 
 # Day 7 -- 2nd July, 2023
+- learnt about classes and solved few problems
+- solved dice problems 
