@@ -28,3 +28,10 @@
 # Day 7 -- 2nd July, 2023
 - learnt about classes and solved few problems
 - solved dice problems 
+
+# Day 8 -- 3rd July, 2023
+-- will start prokects
+
+# Day break
+
+
