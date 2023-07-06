@@ -34,4 +34,6 @@
 
 # Day break
 
+# Day 9-- 6th July, 2023
+-- completed python for beginners Mosh course, the projects seemed hard so haven't tried them yet
 
