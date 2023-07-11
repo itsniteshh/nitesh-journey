@@ -34,4 +34,5 @@
 
 # Day break
 
-# Day 10 - 10th July, 2023
+# Day 10 - 11th July, 2023
+-- completed 2 exercise from python crash course on while loops and list
