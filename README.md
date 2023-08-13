@@ -20,4 +20,6 @@ Starting in descending order with Day 0 at bottom
 Today's progress
 Thoughts on how it went
 Link to everyda work or portfolio
+everything extra
+
 
