@@ -36,3 +36,8 @@
 
 # Day 10 - 11th July, 2023
 -- completed 2 exercise from python crash course on while loops and list
+
+
+
+# Day 0 - 26th Aug, 2023
+-- lets get started
