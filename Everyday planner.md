@@ -44,3 +44,5 @@
 
 # Day 1 - 27th Aug, 2023
 -- completing python bootcamp zero to hero first week assingment on basic data types 
+
+# Day 2 - 28th Aug, 2023
