@@ -46,3 +46,4 @@
 -- completing python bootcamp zero to hero first week assingment on basic data types 
 
 # Day 2 - 28th Aug, 2023
+-- Learning about strings, lists, tuples and dictionaries along with numbers like int and floats and booleans
