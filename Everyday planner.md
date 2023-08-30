@@ -50,3 +50,6 @@
 
 # Day 3 - 29th Aug, 2023
 -- Learning about lists and its properties
+
+# Day 4 - 30th Aug, 2023
+-- Learning about IO Basic files 
