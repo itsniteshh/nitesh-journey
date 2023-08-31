@@ -53,3 +53,6 @@
 
 # Day 4 - 30th Aug, 2023
 -- Learning about IO Basic files 
+
+# Day 5- 31st Aug, 2023
+-- had work, couldn't study python... will watch few videos
