@@ -56,3 +56,6 @@
 
 # Day 5- 31st Aug, 2023
 -- had work, couldn't study python... will watch few videos
+
+# Day 6 -- 1st Sept, 2023
+-- working on operators and for loops 
