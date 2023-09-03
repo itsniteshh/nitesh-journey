@@ -59,3 +59,6 @@
 
 # Day 6 -- 1st Sept, 2023
 -- working on operators and for loops 
+
+# Day 7 -- 2nd sept
+-- break
