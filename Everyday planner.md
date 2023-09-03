@@ -62,3 +62,7 @@
 
 # Day 7 -- 2nd sept
 -- break
+# Day 8 -- 3rd sept, 2023
+-- worked on excel
+
+
