@@ -65,4 +65,5 @@
 # Day 8 -- 3rd sept, 2023
 -- worked on excel
 
-
+# Day 9 -- 4th Sept, 2023
+-- learning while loops and list comprehension
