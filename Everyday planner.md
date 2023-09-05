@@ -69,3 +69,5 @@
 -- learning while loops and list comprehension
 -- completed statement and list comprehension quiz exercise
 
+# Day 10 -- 5th Sept, 2023
+
