@@ -70,4 +70,9 @@
 -- completed statement and list comprehension quiz exercise
 
 # Day 10 -- 5th Sept, 2023
+-- learnt about functions
+
+# Day 11 -- 6th Sept, 2023
+-- working on function quiz
+
 
