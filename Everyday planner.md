@@ -78,3 +78,5 @@
 # Day 12 -- 8th Sept, 2023
 -- coming back to complete the function quiz (pig latin) from Day 11 after a day break
 
+# Day 13 -- 9th Sept, 2023
+-- solved quiz on fuctions 
