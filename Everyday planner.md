@@ -80,3 +80,6 @@
 
 # Day 13 -- 9th Sept, 2023
 -- solved quiz on fuctions 
+
+# Day 14 --- 10th Sept, 2023
+-- solving Level 1 and Level 2 questions on Functions
