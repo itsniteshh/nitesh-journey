@@ -82,4 +82,4 @@
 -- solved quiz on fuctions 
 
 # Day 14 --- 10th Sept, 2023
--- solving Level 1 and Level 2 questions on Functions
+-- solving Level 1 questions on Functions
