@@ -83,3 +83,6 @@
 
 # Day 14 --- 10th Sept, 2023
 -- solving Level 1 questions on Functions
+
+# Day 15 -- 11th Sep, 2023
+-- solving remaining Level 1 question and Level 2
